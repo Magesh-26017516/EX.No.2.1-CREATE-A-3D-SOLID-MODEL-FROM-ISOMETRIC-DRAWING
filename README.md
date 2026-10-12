@@ -1,4 +1,3 @@
-[Experiment no 2.1.docx](https://github.com/user-attachments/files/33338267/Experiment.no.2.1.docx)
 # EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 ## Date:
 
